@@ -1,4 +1,4 @@
-💰 Money Making Machine 💰
+**💰 Money Making Machine 💰**
 🚀 About the Project
 Money Making Machine is a simple yet powerful application that helps you generate random cash, get side hustle ideas, and receive money-making motivation. The goal of this app is to provide entertainment and inspiration to help you explore new income streams. 💸🎯
 
